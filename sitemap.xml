@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- SR verzija -->
+  <url>
+    <loc>https://vukstojanovic.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://vukstojanovic.com/sistemi.html</loc>
+  </url>
+
+  <url>
+    <loc>https://vukstojanovic.com/projekti.html</loc>
+  </url>
+
+  <url>
+    <loc>https://vukstojanovic.com/iskustvo.html</loc>
+  </url>
+
+  <url>
+    <loc>https://vukstojanovic.com/vestine.html</loc>
+  </url>
+
+  <url>
+    <loc>https://vukstojanovic.com/kontakt.html</loc>
+  </url>
+
+  <!-- ENG verzija -->
+  <url>
+    <loc>https://vukstojanovic.com/en/home.html</loc>
+  </url>
+
+  <url>
+    <loc>https://vukstojanovic.com/en/systems.html</loc>
+  </url>
+
+  <url>
+    <loc>https://vukstojanovic.com/en/projects.html</loc>
+  </url>
+
+  <url>
+    <loc>https://vukstojanovic.com/en/experience.html</loc>
+  </url>
+
+  <url>
+    <loc>https://vukstojanovic.com/en/skills.html</loc>
+  </url>
+
+  <url>
+    <loc>https://vukstojanovic.com/en/contact.html</loc>
+  </url>
+
+</urlset>
